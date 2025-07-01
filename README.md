@@ -4,7 +4,6 @@ A cafe recommendation application that uses a Retrieval-Augmented Generation (RA
 ## Data Source:
 https://vu-d.gitbook.io/journey/data-analytics/complete-data-set-on-coffee-shop-footprints-in-los-angeles-county
 
-
-Update as of 07/01:
+## Update as of 07/01:
 - Curate + Find better data to embed to give better cafe recommendations (need to find a way to access yelp's review api)
 - Deployment to be completed.
